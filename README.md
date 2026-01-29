@@ -125,16 +125,15 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palakbehl&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=palakbehl&theme=radical" width="48%"/>
-</p>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palakbehl&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakbehl&layout=compact&theme=radical" />
-</p>
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palakbehl&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=palakbehl&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=palakbehl&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=palakbehl&theme=radical&utcOffset=5.5)
 
 <h3 align="left">LeetCode Stats:</h3>
 <p align="center">
