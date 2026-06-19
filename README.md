@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Pre-Final Year Computer Engineering Student at **G H Patel College of Engineering & Technology (GCET)**
+🎓 Final Year Computer Engineering Student at **G H Patel College of Engineering & Technology (GCET)**
 
 💻 Passionate about designing and developing scalable web applications using modern technologies.
 
